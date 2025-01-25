@@ -1,4 +1,4 @@
-# A-Deep-Learning-Approach-for-Hyperparameterless-Graph-Coloring
+# A-Deep-Learning-Approach-for-Graph-Coloring
 
 This repository contains code to implement and train PI-SAGE model for selecting q color through two algorithms MAXC-q1 and MAXC-q2 as well as analysis of the learning rate. The GNN models supported are GraphSAGE and GraphConv, designed using PyTorch and DGL (Deep Graph Library).
 
